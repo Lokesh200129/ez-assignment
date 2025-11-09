@@ -11,7 +11,7 @@ import frame1 from '../assets/about/us/Frame1.png'
 import frame2 from '../assets/about/us/Frame2.png'
 import frame3 from '../assets/about/us/Frame3.png'
 import mountain from '../assets/about/us/mountain.png'
-import group from '../assets/about/us/group.png'
+import group from '../assets/about/us/Group.png'
 export default function About() {
   return (
     <>
